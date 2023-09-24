@@ -1,0 +1,27 @@
+.space{
+    margin: 20px 25px 20px 25px;
+
+}
+.color{
+    color:azure;
+    padding: 20px 20px 20px 20px;
+    
+}
+.head{
+    color:#db2525;
+}
+.screen{
+    display:flex;
+    justify-content:center;
+}
+.size{
+    font-size:x-large;
+}
+.pad{
+    padding-left:10px;
+    color:black;
+}
+ h2{
+    text-align: center;
+    
+ }
